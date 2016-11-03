@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
+# edit the file
 
 cat <<EOF
 ---
