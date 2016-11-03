@@ -3,6 +3,7 @@
 # Usage:
 #
 #     $ bin/compile <build-dir> <cache-dir>
+# edit the file
 
 
 # Fail fast and fail hard.
