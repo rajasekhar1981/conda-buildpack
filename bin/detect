@@ -11,6 +11,7 @@
 # Compiling an app into a slug is simple:
 #
 #     $ bin/detect <build-dir> <cache-dir>
+# edit the file
 
 BUILD_DIR=$1
 
